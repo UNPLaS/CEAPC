@@ -16,8 +16,8 @@ The methodology and activities carried out for the construction of the instrumen
 **Torres Jiménez, S. (2021). *Diseño y validación interna de un instrumento de autoinforme para caracterizar las estrategias de aprendizaje de programación de computadores* [Tesis de Maestría]. Universidad Nacional de Colombia.**
 
 This repository was created with the objective of facilitating the dissemination of CEAPC and contains the following files:
-- [**CEAPC Questionnaire**](./Cuestionario_CEAPC.pdf)
-- [**CEAPC Manual**](./Manual_CEAPC.pdf)
+- [**CEAPC Questionnaire**](./Cuestionario_CEAPC.pdf) (in Spanish)
+- [**CEAPC Manual**](./Manual_CEAPC.pdf) (in Spanish)
 
 ### Publications
 
