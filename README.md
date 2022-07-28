@@ -30,7 +30,7 @@ El Cuestionario sobre Estrategias de Aprendizaje de la Programación de Computad
 
 El CEAPC está compuesto por 89 ítems divididos en 13 subescalas que caracterizan aspectos de la autorregulación en el aprendizaje como la metacognición, la administración del tiempo, la organización de ideas, y aspectos propios de la programación de computadores como la resolución de problemas, la codificación y la consulta de documentación.
 
-La metodología y las actividades realizadas para llevar a cabo la construcción del instrumento, así las propiedades psicométricas obtenidas pueden ser consultadas en el documento de tesis titulado: [**Diseño y validación interna de un instrumento de autoinforme para caracterizar las estrategias de aprendizaje de programación de computadores**](https://repositorio.unal.edu.co/handle/unal/79877), el cual se puede referenciar de la siguiente manera:
+La metodología y las actividades realizadas para llevar a cabo la construcción del instrumento, así como las propiedades psicométricas obtenidas pueden ser consultadas en el documento de tesis titulado: [**Diseño y validación interna de un instrumento de autoinforme para caracterizar las estrategias de aprendizaje de programación de computadores**](https://repositorio.unal.edu.co/handle/unal/79877), el cual se puede referenciar de la siguiente manera:
 
 **Torres Jiménez, S. (2021). *Diseño y validación interna de un instrumento de autoinforme para caracterizar las estrategias de aprendizaje de programación de computadores* [Tesis de Maestría]. Universidad Nacional de Colombia.**
 
