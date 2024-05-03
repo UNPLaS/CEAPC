@@ -17,7 +17,7 @@ This repository was created with the objective of facilitating the dissemination
 
 ### Publications
 
-- *under revision*
+- Torres Jiménez, S., Ramírez-Echeverry, J. J., & Restrepo-Calle, F. (2024). The Development and Validation of the Questionnaire to Characterize Learning Strategies in Computer Programming (CEAPC). Journal of Educational Computing Research, 61(8), 103-138. https://doi.org/10.1177/07356331231183450
 
 
 ## Español
@@ -32,4 +32,4 @@ Este repositorio fue creado con el objetivo de facilitar la difusión del CEAPC 
 
 ### Publicaciones
 
-- *en revisión*
+- Torres Jiménez, S., Ramírez-Echeverry, J. J., & Restrepo-Calle, F. (2024). The Development and Validation of the Questionnaire to Characterize Learning Strategies in Computer Programming (CEAPC). Journal of Educational Computing Research, 61(8), 103-138. https://doi.org/10.1177/07356331231183450
